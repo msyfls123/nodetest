@@ -1,0 +1,11 @@
+{
+  "author" : "kimi",
+  "name" : "nodetest",
+  "version" : "0.1.1",
+  "description" : "Kimi first package",
+  "main" : "nodetest",
+  "dependencies" : {},
+  "engines" : {
+    "node" : "*"
+  }
+}
