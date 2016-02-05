@@ -1,9 +1,14 @@
 {
   "author" : "kimi",
-  "name" : "nodetest",
+  "name" : "nodetest_fromkimi",
   "version" : "0.1.1",
   "description" : "Kimi first package",
   "main" : "nodetest",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/msyfls123/nodetest/tree/master"
+  },
+  "keywords" : ["kimi","test","do not download"],
   "dependencies" : {},
   "engines" : {
     "node" : "*"
